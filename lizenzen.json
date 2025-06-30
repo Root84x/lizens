@@ -1,12 +1,14 @@
 {
-  "123.45.67.89": {
-    "ip_address": "123.45.67.89",
+  "FORCE-1234ABC": {
+    "ip_address": "45.131.108.79",
+    "cfx_license": "1234567890",
     "blacklisted": false,
-    "reason": ""
+    "reason": null
   },
-  "98.76.54.32": {
-    "ip_address": "98.76.54.32",
+  "FORCE-5678XYZ": {
+    "ip_address": "192.168.0.2",
+    "cfx_license": "0987654321",
     "blacklisted": true,
-    "reason": "Illegaler Verkauf"
+    "reason": "Unauthorized use"
   }
 }
