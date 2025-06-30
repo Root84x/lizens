@@ -1,0 +1,12 @@
+{
+  "123.45.67.89": {
+    "ip_address": "123.45.67.89",
+    "blacklisted": false,
+    "reason": ""
+  },
+  "98.76.54.32": {
+    "ip_address": "98.76.54.32",
+    "blacklisted": true,
+    "reason": "Illegaler Verkauf"
+  }
+}
